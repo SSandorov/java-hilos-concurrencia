@@ -3,6 +3,7 @@
 /home/ssandorov/Programming/devtalles/java/java-advanced/java-hilos-concurrencia/src/main/java/com/mycompany/app/concurrenceVsParallelism/ParallelismExample.java
 /home/ssandorov/Programming/devtalles/java/java-advanced/java-hilos-concurrencia/src/main/java/com/mycompany/app/executor/ExecutorExample.java
 /home/ssandorov/Programming/devtalles/java/java-advanced/java-hilos-concurrencia/src/main/java/com/mycompany/app/executor/ExecutorTypes.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/java-hilos-concurrencia/src/main/java/com/mycompany/app/executor/ShutdownComparison.java
 /home/ssandorov/Programming/devtalles/java/java-advanced/java-hilos-concurrencia/src/main/java/com/mycompany/app/executor/ThreadvsExecutor.java
 /home/ssandorov/Programming/devtalles/java/java-advanced/java-hilos-concurrencia/src/main/java/com/mycompany/app/runnable/RunnableExample.java
 /home/ssandorov/Programming/devtalles/java/java-advanced/java-hilos-concurrencia/src/main/java/com/mycompany/app/thread/ThreadExample.java
