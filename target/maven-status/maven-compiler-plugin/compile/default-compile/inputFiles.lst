@@ -11,4 +11,8 @@
 /home/ssandorov/Programming/devtalles/java/java-advanced/java-hilos-concurrencia/src/main/java/com/mycompany/app/scheduledTasks/Schedule.java
 /home/ssandorov/Programming/devtalles/java/java-advanced/java-hilos-concurrencia/src/main/java/com/mycompany/app/sectionProject/Main.java
 /home/ssandorov/Programming/devtalles/java/java-advanced/java-hilos-concurrencia/src/main/java/com/mycompany/app/sectionProject/model/LogEntry.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/java-hilos-concurrencia/src/main/java/com/mycompany/app/sectionProject/model/LogSummary.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/java-hilos-concurrencia/src/main/java/com/mycompany/app/sectionProject/service/LogProcessorTask.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/java-hilos-concurrencia/src/main/java/com/mycompany/app/sectionProject/service/LogService.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/java-hilos-concurrencia/src/main/java/com/mycompany/app/sectionProject/util/LogParser.java
 /home/ssandorov/Programming/devtalles/java/java-advanced/java-hilos-concurrencia/src/main/java/com/mycompany/app/thread/ThreadExample.java
